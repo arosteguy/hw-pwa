@@ -1,0 +1,10 @@
+{
+  "short_name": "Budget",
+  "name": "Web App Budget Tracker",
+  
+  
+  "start_url": "/",
+  "background_color": "#808080",
+  "display": "standalone",
+  "theme_color": "#808080"
+}
